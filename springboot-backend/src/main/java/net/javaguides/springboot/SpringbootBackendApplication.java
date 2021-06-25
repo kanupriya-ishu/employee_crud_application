@@ -1,13 +1,13 @@
-package net.guides.springboot2.springboot2jpacrudexample;
+package net.javaguides.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Springboot2JpaCrudExampleApplication {
+public class SpringbootBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Springboot2JpaCrudExampleApplication.class, args);
+		SpringApplication.run(SpringbootBackendApplication.class, args);
 	}
 
 }

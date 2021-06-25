@@ -8,11 +8,11 @@
 		<version>2.5.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>net.guides.springboot2</groupId>
-	<artifactId>springboot2-jpa-crud-example</artifactId>
+	<groupId>net.javaguides</groupId>
+	<artifactId>springboot-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot2-jpa-crud-example</name>
-	<description>Rest API for a Simple Employee Management Application</description>
+	<name>springboot-backend</name>
+	<description>Springboot CRUD Project</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
